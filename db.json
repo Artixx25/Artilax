@@ -6,6 +6,13 @@
         "sirname": "Moskalenko",
         "photo_url": " ",
         "balance": 1500
+    },
+    {
+        "id": 2,
+        "name": "Artixx",
+        "sirname": "Dev",
+        "photo_url": "https://xdlinktomyphoto.onlyfans.com",
+        "balance": 990000909
     }
     ]
 }
