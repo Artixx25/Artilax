@@ -15,7 +15,8 @@
         "balance": 990000909
     }
     ],
-    "products": [{
+    "products": [
+        {
         "name":"cockain",
         "id": 3,
         "price": "300$"
